@@ -1,6 +1,22 @@
 h1 {
 	text-align: center;
-	font-family: open sans;
+	font-family: 'open sans';
 	font-weight: bold;
 	font-size: 32px;
+}
+
+h2 {
+	font-family: 'open sans light';
+	font-size: 24px;
+}
+
+.footer {
+	background-color: rgba(32, 35, 41, 0.9);
+	color: #fff;
+	padding: 40px;
+}
+
+.footer h2 {
+	font-family: 'bebas neue';
+	font-size: 16px;
 }
