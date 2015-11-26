@@ -2,7 +2,7 @@ h1 {
 	text-align: center;
 	font-family: 'bebas neue';
 	font-weight: bold;
-	font-size: 32px;
+	font-size: 64px;
 }
 
 h2 {
@@ -14,6 +14,13 @@ h2 {
 
 body {
 	text-align: center;
+	padding: 40px;
+}
+
+.introduction {
+	background-color: rgba(32, 35, 41, 0.9);
+    color: #f7f6e4;
+    padding: 25px;
 }
 
 .row {
