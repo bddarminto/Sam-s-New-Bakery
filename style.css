@@ -44,3 +44,8 @@ img {
 	font-family: 'bebas neue';
 	font-size: 16px;
 }
+
+.footer img {
+	width: 64px;
+	height: 64px;
+}
