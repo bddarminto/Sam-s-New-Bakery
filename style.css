@@ -16,6 +16,11 @@ body {
 	text-align: center;
 }
 
+img {
+	width: 450px;
+	height: 300px;
+}
+
 .introduction {
 	background-color: rgba(32, 35, 41, 0.9);
     color: #fff;
