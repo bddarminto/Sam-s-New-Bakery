@@ -27,16 +27,15 @@ img:hover {
 }
 
 .home {
-    margin-top: -25px;
-    background-image: url('images/eclairs.jpeg');
+	margin-top: -25px;
+	background-image: url('images/eclairs.jpeg');
 	background-color: #000;
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
+	height: 850px;
 	max-width: 100%;
-	height: 840px;
 	color: #fff;
 }
-
 
 .menu {
     list-style-type: none;
